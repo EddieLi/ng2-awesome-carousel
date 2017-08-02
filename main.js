@@ -1,0 +1,1 @@
+exports.AwesomeCarousel = require ('./bundle/ng2-awesome-carousel.component').Ng2AwesomeCarouselComponent;

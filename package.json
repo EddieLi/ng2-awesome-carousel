@@ -2,8 +2,10 @@
   "name": "ng2-awesome-carousel",
   "version": "0.0.1",
   "description": "An awesome carousel that is responsive and lazyload",
-  "main": "ng2-awesome-carousel.component.ts",
+  "main": "main.js",
   "scripts": {
+    "build": "rm -rf bundle && tsc",
+    "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

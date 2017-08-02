@@ -1,0 +1,1 @@
+export * from './bundle/ng2-awesome-carousel.component';
