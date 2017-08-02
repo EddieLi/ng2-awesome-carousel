@@ -1,0 +1,23 @@
+{
+  "name": "ng2-awesome-carousel",
+  "version": "0.0.1",
+  "description": "An awesome carousel that is responsive and lazyload",
+  "main": "ng2-awesome-carousel.component.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieLi/ng2-awesome-carousel.git"
+  },
+  "keywords": [
+    "angular2",
+    "carousel"
+  ],
+  "author": "Eddie Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddieLi/ng2-awesome-carousel/issues"
+  },
+  "homepage": "https://github.com/EddieLi/ng2-awesome-carousel#readme"
+}
